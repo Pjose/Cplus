@@ -1,3 +1,3 @@
-# Cplus
+# Data Types
 
-This is a repository for C++ tutorials and sample projects. It holds sample C++ codes that demonstrate specific features/topics in C++ programming.
+Sample C++ programs to explain the primitive data types found in C++ programming language and how to use them.
